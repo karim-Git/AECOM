@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="8191" systemVersion="15A284" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8154"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ViewSplash" translatesAutoresizingMaskIntoConstraints="NO" id="Ec1-u4-D5Y">
+                    <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
+                    <animations/>
+                </imageView>
+            </subviews>
+            <animations/>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="Ec1-u4-D5Y" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="BBD-Qx-WGM"/>
+                <constraint firstAttribute="trailing" secondItem="Ec1-u4-D5Y" secondAttribute="trailing" id="Tmn-sG-Ezh"/>
+                <constraint firstAttribute="bottom" secondItem="Ec1-u4-D5Y" secondAttribute="bottom" id="YRy-PM-NLk"/>
+                <constraint firstItem="Ec1-u4-D5Y" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="mau-dk-6xL"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <variation key="default">
+                <mask key="subviews">
+                    <exclude reference="Ec1-u4-D5Y"/>
+                </mask>
+                <mask key="constraints">
+                    <exclude reference="BBD-Qx-WGM"/>
+                    <exclude reference="Tmn-sG-Ezh"/>
+                    <exclude reference="YRy-PM-NLk"/>
+                    <exclude reference="mau-dk-6xL"/>
+                </mask>
+            </variation>
+            <variation key="heightClass=regular-widthClass=compact">
+                <mask key="subviews">
+                    <include reference="Ec1-u4-D5Y"/>
+                </mask>
+                <mask key="constraints">
+                    <include reference="BBD-Qx-WGM"/>
+                    <include reference="Tmn-sG-Ezh"/>
+                    <include reference="YRy-PM-NLk"/>
+                    <include reference="mau-dk-6xL"/>
+                </mask>
+            </variation>
+            <point key="canvasLocation" x="548" y="455"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="ViewSplash" width="750" height="1334"/>
+    </resources>
+</document>

@@ -1,0 +1,575 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr
+END
+FovWizardItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/FovWizardItem.h
+END
+TrackerBase.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/TrackerBase.m
+END
+TrackerWizardItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/TrackerWizardItem.h
+END
+PhysicalDeviceWizardItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/PhysicalDeviceWizardItem.h
+END
+SCNViewpoint.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/SCNViewpoint.m
+END
+FovWizardItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/FovWizardItem.m
+END
+TrackerWizardItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/TrackerWizardItem.m
+END
+PhysicalDeviceWizardItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/PhysicalDeviceWizardItem.m
+END
+EyeTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/EyeTexture.h
+END
+IMUTracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/IMUTracker.h
+END
+EyeTexture.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/EyeTexture.m
+END
+PhysicalDpiWizardItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/PhysicalDpiWizardItem.h
+END
+IpdValueWizarditem.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/IpdValueWizarditem.h
+END
+FovItemWizardItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/FovItemWizardItem.h
+END
+IMUTracker.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/IMUTracker.m
+END
+PhysicalDpiWizardItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/PhysicalDpiWizardItem.m
+END
+IpdValueWizarditem.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/IpdValueWizarditem.m
+END
+FovItemWizardItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/FovItemWizardItem.m
+END
+VBOWrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/VBOWrap.h
+END
+MobileDeviceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/MobileDeviceManager.h
+END
+ProfileInstance.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/ProfileInstance.h
+END
+VBOWrap.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/VBOWrap.m
+END
+SCNEye.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/SCNEye.h
+END
+MobileDeviceManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/MobileDeviceManager.m
+END
+ProfileInstance.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/ProfileInstance.m
+END
+SCNEye.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/SCNEye.m
+END
+ProfileManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/ProfileManager.h
+END
+DistortionValueWizardItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/DistortionValueWizardItem.h
+END
+WizardManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/WizardManager.h
+END
+ListableArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/ListableArray.h
+END
+RenderTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/RenderTexture.h
+END
+ProfileManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/ProfileManager.m
+END
+WizardManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/WizardManager.m
+END
+DistortionValueWizardItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/DistortionValueWizardItem.m
+END
+VirtualDeviceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/VirtualDeviceManager.h
+END
+ListableArray.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/ListableArray.m
+END
+RenderTexture.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/RenderTexture.m
+END
+VirtualDeviceManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/VirtualDeviceManager.m
+END
+HmdWizardItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/HmdWizardItem.h
+END
+SamplingWizardItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/SamplingWizardItem.h
+END
+SBSRenderInstance.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/SBSRenderInstance.h
+END
+Constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/Constants.h
+END
+HmdWizardItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/HmdWizardItem.m
+END
+SCNVRResourceBundler.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/SCNVRResourceBundler.h
+END
+SamplingWizardItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/SamplingWizardItem.m
+END
+SBSRenderInstance.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/SBSRenderInstance.m
+END
+HmdDeviceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/HmdDeviceManager.h
+END
+SCNVRResourceBundler.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/SCNVRResourceBundler.m
+END
+ProfileConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/ProfileConfiguration.h
+END
+HmdDeviceManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/HmdDeviceManager.m
+END
+scn_vr.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/scn_vr.h
+END
+ProfileConfiguration.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/ProfileConfiguration.m
+END
+MonoRenderInstance.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/MonoRenderInstance.h
+END
+TrackingManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/TrackingManager.h
+END
+DistortionWizardItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/DistortionWizardItem.h
+END
+VirtualDeviceConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/VirtualDeviceConfiguration.h
+END
+scn_vr.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/scn_vr.m
+END
+MonoRenderInstance.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/MonoRenderInstance.m
+END
+TrackingManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/TrackingManager.m
+END
+DistortionWizardItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/DistortionWizardItem.m
+END
+VirtualDeviceConfiguration.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/VirtualDeviceConfiguration.m
+END
+VirtualDeviceWizardItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/VirtualDeviceWizardItem.h
+END
+ColorCorrection.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/ColorCorrection.h
+END
+ColorValueWizardItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/ColorValueWizardItem.h
+END
+ColorCorrection.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/ColorCorrection.m
+END
+VirtualDeviceWizardItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/VirtualDeviceWizardItem.m
+END
+IpdWizardItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/IpdWizardItem.h
+END
+ColorValueWizardItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/ColorValueWizardItem.m
+END
+HmdDeviceConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/HmdDeviceConfiguration.h
+END
+IpdWizardItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/IpdWizardItem.m
+END
+DistortionMeshGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/DistortionMeshGenerator.h
+END
+HmdDeviceConfiguration.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/HmdDeviceConfiguration.m
+END
+DistortionMeshGenerator.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/DistortionMeshGenerator.m
+END
+CoreMotionTracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/CoreMotionTracker.h
+END
+CoreMotionTracker.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/CoreMotionTracker.m
+END
+DistortionQualityWizardItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/DistortionQualityWizardItem.h
+END
+RenderManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/RenderManager.h
+END
+RenderBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/RenderBase.h
+END
+VirtualPositionWizardItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/VirtualPositionWizardItem.h
+END
+DistortionQualityWizardItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/DistortionQualityWizardItem.m
+END
+ColorWizardItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/ColorWizardItem.h
+END
+RenderManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/RenderManager.m
+END
+RenderBase.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/RenderBase.m
+END
+MobileDeviceConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/MobileDeviceConfiguration.h
+END
+WizardItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/WizardItem.h
+END
+VirtualPositionWizardItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/VirtualPositionWizardItem.m
+END
+VirtualCustomWizardItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/VirtualCustomWizardItem.h
+END
+ColorWizardItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/ColorWizardItem.m
+END
+SCNVirtualRealityViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/SCNVirtualRealityViewController.h
+END
+MobileDeviceConfiguration.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/MobileDeviceConfiguration.m
+END
+WizardItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/WizardItem.m
+END
+TrackerBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/TrackerBase.h
+END
+VirtualCustomWizardItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/VirtualCustomWizardItem.m
+END
+SCNViewpoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/SCNViewpoint.h
+END
+SCNVirtualRealityViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/rapidbizapps/!svn/ver/21080/Services/AECom/AECOM/SCN-VR/scn-vr/SCNVirtualRealityViewController.m
+END

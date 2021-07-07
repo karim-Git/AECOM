@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "567b574a-c3d2-4eb7-af09-c7d3c6d3697d++38",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "567b574a-c3d2-4eb7-af09-c7d3c6d3697d++38" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "567b574a-c3d2-4eb7-af09-c7d3c6d3697d++38" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8E4FD6F9-720F-4DBB-A74E-422D3D98FBD5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "567b574a-c3d2-4eb7-af09-c7d3c6d3697d++38" : "AECom\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AECOM",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AECOM\/AECOM.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/wush.net\/svn\/rapidbizapps",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "567b574a-c3d2-4eb7-af09-c7d3c6d3697d++38"
+    }
+  ]
+}
